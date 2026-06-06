@@ -1,4 +1,4 @@
-# BMI Calculator
+# Arduino Blinking LED
 
 A simple Arduino-based LED project that controls one or more LEDs using basic programming logic.
 
